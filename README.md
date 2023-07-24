@@ -1,1 +1,2 @@
-# e-store
+# E-store
+<p>admin dashboard</p>
